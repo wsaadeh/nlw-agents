@@ -11,5 +11,4 @@ export const db = drizzle(sql, {
 
 //const result = await sql`SELECT 'Hello' as message`;
 
-// biome-ignore lint/suspicious/noConsole: doing tests
 //console.log(result);
