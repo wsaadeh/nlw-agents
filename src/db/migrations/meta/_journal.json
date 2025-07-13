@@ -15,6 +15,13 @@
       "when": 1752245587725,
       "tag": "0001_good_mister_fear",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752355935013,
+      "tag": "0002_dark_hemingway",
+      "breakpoints": true
     }
   ]
 }
